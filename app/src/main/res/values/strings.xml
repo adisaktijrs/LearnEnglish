@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Learn English</string>
+    <string-array name="kosakata">
+        <item>Pen,Pena,pena</item>
+        <item>Pencil,Pensil,pencil</item>
+        <item>Eraser,Penghapus,penghapus</item>
+        <item>Pencil Case,Kotak pensil,kotakp</item>
+        <item>Colored Pencil,Pensil Warna,pensilw</item>
+        <item>Paper,Kertas,kertas</item>
+        <item>Book,Buku,buku</item>
+        <item>Textbook,Buku Pelajaran,bukup</item>
+        <item>Bookmark,Pembatas Buku,pembatas</item>
+        <item>Drawer,Laci,laci</item>
+        <item>Table,Meja,meja</item>
+        <item>Chair,Kursi,kursi</item>
+        <item>Whiteboard,Papan tulis putih,papanp</item>
+        <item>Blackboard,Papan tulis hitam,papanh</item>
+        <item>Marker,Spidol,spidol</item>
+        <item>Chalk,Kapur,kampur</item>
+        <item>O’clock,Jam Dinding,jamd</item>
+        <item>Map,Peta,peta</item>
+        <item>Window,Jendela,jendela</item>
+        <item>Door,Pintu,pintu</item>
+        <item>Curtain,Gorden,gorden</item>
+        <item>Trash Box,Kotak sampah,kotaks</item>
+        <item>Picket List,Daftar Piket,daftar</item>
+        <item>Lesson Schedule,Jadwal Mata Pelajaran,jadwal</item>
+        <item>Calender,Kalender,kalender</item>
+        <item>Vase,Vas bunga,vas</item>
+        <item>Table Cloth,Taplak meja,taplak</item>
+        <item>Pot,Pot,pot</item>
+        <item>Tree,Pohon,pohon</item>
+        <item>Lawn Mower,Pemotong Rumput,pemotong</item>
+        <item>Spade,Sekop Kecil,sekop</item>
+        <item>Flagpole,Tiang Bendera,tiang</item>
+        <item>Broom,Sapu,sapu</item>
+        <item>Mop,Alat Pel,alat</item>
+        <item>Uniform,Seragam,seragam</item>
+        <item>Tie,Topi,topi</item>
+        <item>Shoes,Sepatu,sepatu</item>
+        <item>Watch,Jam Tangan,jamt</item>
+        <item>Bag,Tas,tas</item>
+        <item>Socks,Kaos kaki,kaosk</item>
+        <item>Skirt,Rok,rok</item>
+        <item>Trouser,Celana Panjang,celana</item>
+        <item>Belt,Ikat Pinggang,ikatp</item>
+        <item>School Hall,Lorong Sekolah,lorong</item>
+        <item>Teacher Room,Ruang Guru,ruang</item>
+        <item>Toilet,Kamar Kecil,kamar</item>
+        <item>Cafetaria,Kantin,kantin</item>
+        <item>Library,Perpustakaan,perpustakaan</item>
+        <item>Laboratory,Laboratorium,laboratorium</item>
+        <item>Computer Lab,Lab Komputer,labkom</item>
+        <item>Student Health Units,Unit Kesehatan Siswa (UKS),uks</item>
+        <item>Parking lot,Tempat parkir,tempatpar</item>
+        <item>Mosque,Masjid,masjid</item>
+        <item>Field,Lapangan,lapangan</item>
+        <item>Basket Ball Field,Lapangan Bola Basket,basket</item>
+        <item>Football Field,Lapangan Sepak Bola,sepak</item>
+
+
+
+    </string-array>
+</resources>
