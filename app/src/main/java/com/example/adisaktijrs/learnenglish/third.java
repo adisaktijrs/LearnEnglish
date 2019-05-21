@@ -170,4 +170,4 @@ public class third extends AppCompatActivity {
         alertDialog.show();
     }
 
-} //yeahhhhhhhhhhhhhhhhhhhhhh activity terakhir kelarrrrrrrrrrr
+} //finish
